@@ -5,7 +5,7 @@ Section: Tweaks
 Maintainer: webmaster@localhost.com
 Installed-Size: 598
 Depends: mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
-Filename: debs/tk.oceantweak.ocean_0.1.1-1_iphoneos-arm.deb
+Filename: https://oceantweak.tk/repo/debs/tk.oceantweak.ocean_0.1.1-1_iphoneos-arm.deb
 Size: 288678
 MD5sum: ed88bc5f04c6846cda2e2612881702a3
 SHA1: 454776a9ef9607f26276c6ea59832ae5859eac05
@@ -15,6 +15,5 @@ Description: Supercharge Sileo with Ocean
 Name: Ocean
 Author: TeamOcean
 Depiction: https://oceantweak.tk/repo/depictions/Ocean
-SileoDepiction: https://oceantweak.tk/repo/depictions/Ocean/SileoDepiction.json
 Icon: file:///Library/PreferenceBundles/oceanprefs.bundle/icon-large.png
-
+SileoDepiction: https://oceantweak.tk/repo/depictions/Ocean/SileoDepcition.json
