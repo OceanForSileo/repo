@@ -1,0 +1,13 @@
+{  
+   "class":"FeaturedBannersView",
+   "itemSize":"{263, 148}",
+   "itemCornerRadius":10,
+   "banners":[  
+      {  
+         "url":"https://github.com/M4cs/m4cs/blob/master/header-image.png?raw=true",
+         "title":"Ocean",
+         "package":"tk.oceantweak.ocean",
+         "hideShadow":false
+      }
+   ]
+}
