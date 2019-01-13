@@ -1,16 +1,16 @@
 Package: tk.oceantweak.ocean
 Architecture: iphoneos-arm
-Version: 0.1.1
+Version: 0.1.1-1
 Section: Tweaks
 Maintainer: webmaster@localhost.com
-Installed-Size: 614
+Installed-Size: 598
 Depends: mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
-Filename: debs/tk.oceantweak.ocean_0.1.1_iphoneos-arm.deb
-Size: 290592
-MD5sum: 04a3de4ba3e22adfbf6f8385fce27984
-SHA1: b88ce6aae134893c303b29f0705741d3bddd3353
-SHA256: d97d083b57e73a7724994425da2ad6674a511e61a391a40fdbb693c53c8c55dd
-SHA512: daa84b24f3f76a78bf32cfa1c24281e32b7eaea9099b0d97b9e2c2d81ce61242f5b90e5f81e7dc4da66482ef8ee81b7945ddde5df4a7ecf60d3592283371eb50
+Filename: debs/tk.oceantweak.ocean_0.1.1-1_iphoneos-arm.deb
+Size: 288678
+MD5sum: ed88bc5f04c6846cda2e2612881702a3
+SHA1: 454776a9ef9607f26276c6ea59832ae5859eac05
+SHA256: 777577622de2a53cafa75358900e0b26175d6645bb492b48535e998c85adb732
+SHA512: ee6583b8c7426a7134097c85c2e35133a8ea25012a99dd0ef42a7bc5d8f2caba8afdb330187b2c4103537bcac6a19e8e98ff7af9adc3fdd7b1b7e30a2d9804aa
 Description: Supercharge Sileo with Ocean
 Name: Ocean
 Author: TeamOcean
