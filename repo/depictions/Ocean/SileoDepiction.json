@@ -29,16 +29,12 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://oceantweak.tk/repo/depictions/Ocean/screenshot1.jpg"
+              "url": "https://github.com/M4cs/m4cs/blob/master/screenshot1.png?raw=true"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://oceantweak.tk/repo/depictions/Ocean/screenshot2.jpg"
-            },
-	    {
-	      "accessibilityText": "Screenshot",
-	      "url": "https://oceantweak.tk/repo/depictions/Ocean/screenshot3.jpg"
-	    }
+              "url": "https://github.com/M4cs/m4cs/blob/master/screenshot2.png?raw=true"
+            }
           ],
           "class": "DepictionScreenshotsView"
         },
