@@ -5,7 +5,7 @@ Section: Tweaks
 Maintainer: webmaster@localhost.com
 Installed-Size: 598
 Depends: mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
-Filename: https://oceantweak.tk/repo/debs/tk.oceantweak.ocean_0.1.1-1_iphoneos-arm.deb
+Filename: debs/tk.oceantweak.ocean_0.1.1-1_iphoneos-arm.deb
 Size: 288678
 MD5sum: ed88bc5f04c6846cda2e2612881702a3
 SHA1: 454776a9ef9607f26276c6ea59832ae5859eac05
