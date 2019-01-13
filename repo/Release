@@ -7,3 +7,4 @@ Architectures: iphoneos-arm
 Components: main
 Description: Official Repository for Ocean.
 Host-Software: OceanTweak
+Icon: https://github.com/OceanForSileo/repo/blob/master/repo/depictions/Ocean/assets/app/oceanIcon.png?raw=true
