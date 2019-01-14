@@ -51,7 +51,7 @@
 	},
 	{
     {
-	"title":"# Other Features:<br/>* Add unsupported repositories<br/>* E-Mail and share your tweak lists easily<br/>* Auto-Respring after installation<br/>* Add multiple repositories at once",
+	"title":"# Other Features:\n* Add unsupported repositories\n* E-Mail and share your tweak lists easily\n* Auto-Respring after installation\n* Add multiple repositories at once\n* Bring back Ads to BigBoss and Support the Community.",
 	"useBoldText":true,
 	"useBottomMargin":false,
 	"class":"DepictionMarkdownView"
