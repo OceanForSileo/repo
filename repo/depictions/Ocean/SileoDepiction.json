@@ -51,17 +51,6 @@
                "class":"DepictionHeaderView"
             },
             {
-               "itemCornerRadius":6,
-               "itemSize":"{213.333333336, 173}",
-               "screenshots":[
-                  {
-                     "accessibilityText":"Screenshot",
-                     "url":"https://oceantweak.tk/repo/depictions/Ocean/assets/app/export.jpg"
-                  }
-               ],
-               "class":"DepictionScreenshotsView"
-            },
-            {
                "class":"DepictionSeparatorView"
             },
             {
