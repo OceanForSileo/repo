@@ -49,32 +49,12 @@
 	"spacing": 8,
 	"class": "DepictionSpacerView"
 	},
-    {
-	"title":"Export Your Tweaks Easily",
-	"useBoldText":true,
-	"useBottomMargin":false,
-	"class":"DepictionSubheaderView"
-	},
 	{
-	"itemCornerRadius": 6,
-	"itemSize": "{213.333333336, 173}",
-	"screenshots": [
-	{
-	"accessibilityText": "Screenshot",
-	"url": "https://oceantweak.tk/repo/depictions/Ocean/assets/app/export.jpg"
-	}
-	],
-	"class": "DepictionScreenshotsView"
-	},
-	{
-	"spacing": 8,
-	"class": "DepictionSpacerView"
-	},
     {
 	"title":"# Other Features:<br/>* Add unsupported repositories<br/>* E-Mail and share your tweak lists easily<br/>* Auto-Respring after installation<br/>* Add multiple repositories at once",
 	"useBoldText":true,
 	"useBottomMargin":false,
-	"class":"DepictionSubheaderView"
+	"class":"DepictionMarkdownView"
 	},
     {
 	"title":"More Features Coming Soon",
