@@ -137,5 +137,21 @@
 	"class": "DepictionStackView"
 	}
 	],
-	"class": "DepictionTabView"
+        {
+	"tabname": "Donations",
+	"views": [
+	{
+	"title": "Support The Creators",
+	"useBoldText": true,
+	"useBottomMarin": true,
+	"class": "DepictionSubheaderView"
+	},
+	{
+	"markdown": "[Click Here](https://paypal.me/M4csdev) to Donate to the Developers of Ocean!\nAt the moment we are unable to receive them any other way effeciently so by sending it to that the developers all split it equally.\nAll donations are greatly appreciated and help us out a lot.",
+	"useSpacing": false,
+	"class": "DepictionMarkdownView"
 	}
+	],
+	"class": "DepictionStackView"
+	}
+	]
