@@ -135,8 +135,7 @@
 	}
 	],
 	"class": "DepictionStackView"
-	}
-	],
+	},
         {
 	"tabname": "Donations",
 	"views": [
