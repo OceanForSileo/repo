@@ -91,12 +91,12 @@
 	},
 	{
 	"title": "Version",
-	"text": "0.0.1-1",
+	"text": "0.1.1-1",
 	"class": "DepictionTableTextView"
 	},
 	{
 	"title": "Released",
-	"text": "2019-01-01",
+	"text": "2019-01-13",
 	"class": "DepictionTableTextView"
 	},
 	{
@@ -134,7 +134,7 @@
 	"tabname": "Changelog",
 	"views": [
 	{
-	"title": "Version 0.0.1-1",
+	"title": "Version 0.1.1-1",
 	"useBoldText": true,
 	"useBottomMargin": true,
 	"class": "DepictionSubheaderView"
