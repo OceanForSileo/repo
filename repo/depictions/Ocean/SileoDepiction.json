@@ -1,139 +1,138 @@
 {
-  "minVersion": "0.1",
-  "headerImage": "https://github.com/M4cs/m4cs/blob/master/header-image.png?raw=true",
-  "tabs": [
-    {
-      "tabname": "Details",
-      "views": [
-        {
-          "title": "Upgrade Sileo with Ocean!",
-          "useBoldText": true,
-          "useBottomMargin": false,
-          "class": "DepictionSubheaderView"
-        },
-        {
-          "markdown": "Add more functionality and a more comfortable user experience in Sileo with Ocean!",
-          "useSpacing": true,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "title": "Customize Your Experience",
-          "class": "DepictionHeaderView"
-        },
-        {
-          "itemCornerRadius": 6,
-          "itemSize": "{160, 275.41333333333336}",
-          "screenshots": [
+   "minVersion":"0.1",
+   "headerImage":"https://github.com/M4cs/m4cs/blob/master/header-image.png?raw=true",
+   "tabs":[
+      {
+         "tabname":"Details",
+         "views":[
             {
-              "accessibilityText": "Screenshot",
-              "url": "https://github.com/M4cs/m4cs/blob/master/screenshot1.png?raw=true"
+               "title":"Upgrade Sileo with Ocean!",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
             },
             {
-              "accessibilityText": "Screenshot",
-              "url": "https://github.com/M4cs/m4cs/blob/master/screenshot2.png?raw=true"
-            }
-          ],
-          "class": "DepictionScreenshotsView"
-        },
-        {
-          "markdown": "Change the color scheme of Sileo.",
-          "useSpacing": true,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "title": "Export Your Tweaks Easily",
-          "class": "DepictionHeaderView"
-        },
-        {
-          "itemCornerRadius": 6,
-          "itemSize": "{213.333333336, 173}",
-          "screenshots": [
+               "markdown":"Add more functionality and a more comfortable user experience in Sileo with Ocean!",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+            },
             {
-              "accessibilityText": "Screenshot",
-              "url": "https://oceantweak.tk/repo/depictions/Ocean/assets/app/export.jpg"
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "title":"Customize Your Experience",
+               "class":"DepictionHeaderView"
+            },
+            {
+               "itemCornerRadius":6,
+               "itemSize":"{160, 275.41333333333336}",
+               "screenshots":[
+                  {
+                     "accessibilityText":"Screenshot",
+                     "url":"https://github.com/M4cs/m4cs/blob/master/screenshot1.png?raw=true"
+                  },
+                  {
+                     "accessibilityText":"Screenshot",
+                     "url":"https://github.com/M4cs/m4cs/blob/master/screenshot2.png?raw=true"
+                  }
+               ],
+               "class":"DepictionScreenshotsView"
+            },
+            {
+               "markdown":"Change the color scheme of Sileo.",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "title":"Export Your Tweaks Easily",
+               "class":"DepictionHeaderView"
+            },
+            {
+               "itemCornerRadius":6,
+               "itemSize":"{213.333333336, 173}",
+               "screenshots":[
+                  {
+                     "accessibilityText":"Screenshot",
+                     "url":"https://oceantweak.tk/repo/depictions/Ocean/assets/app/export.jpg"
+                  }
+               ],
+               "class":"DepictionScreenshotsView"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "markdown":"# Other Features:\n* Add unsupported repositories\n* E-Mail and share your tweak lists easily\n* Auto-Respring after installation\n* Add multiple repositories at once",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+            },
+            {
+               "title":"More Features Coming Soon",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+            },
+            {
+               "title":"Latest Version",
+               "class":"DepictionHeaderView"
+            },
+            {
+               "title":"Version",
+               "text":"0.2.0",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"Released",
+               "text":"2019-1-1",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"Price",
+               "text":"Free",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "spacing":8,
+               "class":"DepictionSpacerView"
+            },
+            {
+               "title":"Developer",
+               "text":"TeamOcean",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"Contact Support",
+               "action":"depiction-https://oceantweak.tk/repo/depictions/SupportDepiction.json",
+               "class":"DepictionTableButtonView"
             }
-          ],
-          "class": "DepictionScreenshotsView"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "markdown": "# Other Features:\n* Add unsupported repositories\n* E-Mail and share your tweak lists easily\n* Auto-Respring after installation\n* Add multiple repositories at once",
-          "useSpacing": true,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "title": "More Features Coming Soon",
-          "useBoldText": true,
-          "useBottomMargin": false,
-          "class": "DepictionSubheaderView"
-        },
-        {
-          "title": "Latest Version",
-          "class": "DepictionHeaderView"
-        },
-        {
-          "title": "Version",
-          "text": "0.2.0",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Released",
-          "text": "2019-1-1",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Price",
-          "text": "Free",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "spacing": 8,
-          "class": "DepictionSpacerView"
-        },
-        {
-          "title": "Developer",
-          "text": "TeamOcean",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "Contact Support",
-          "action": "depiction-https://oceantweak.tk/repo/depictions/SupportDepiction.json",
-          "class": "DepictionTableButtonView"
-        }
-      ],
-      "class": "DepictionStackView"
-    },
-    {
-      "tabname": "Changelog",
-      "views": [
-        {
-          "title": "Version: 0.2.0",
-          "useBoldText": true,
-          "useBottomMargin": true,
-          "class": "DepictionSubheaderView"
-        },
-        {
-          "markdown": "* Initial Beta Release",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019-01-01</small>",
-          "useRawFormat": true,
-          "class": "DepictionMarkdownView"
-        }
-      ],
-      "class": "DepictionStackView"
-    }
-  ],
-  "class": "DepictionTabView"
+         ],
+         "class":"DepictionStackView"
+      },
+      {
+         "tabname":"Changelog",
+         "views":[
+            {
+               "title":"Version: 0.2.0",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {
+               "markdown":"* Initial Beta Release",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">Released 2019-01-01</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            }
+         ],
+         "class":"DepictionStackView"
+      }
+   ],
+   "class":"DepictionTabView"
 }
-
