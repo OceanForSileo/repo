@@ -15,5 +15,6 @@ Description: Supercharge Sileo with Ocean
 Name: Ocean
 Author: TeamOcean
 Depiction: https://oceantweak.tk/repo/depictions/Ocean
-Icon: file:///Library/PreferenceBundles/oceanprefs.bundle/icon-large.png
-SileoDepiction: https://oceantweak.tk/repo/depictons/Ocean/SileoDepiction.json
+SileoDepiction: https://raw.githubusercontent.com/OceanForSileo/repo/master/repo/depictions/Ocean/SileoDepiction.json
+Icon: https://github.com/OceanForSileo/repo/blob/master/repo/CydiaIcon.png?raw=true
+
