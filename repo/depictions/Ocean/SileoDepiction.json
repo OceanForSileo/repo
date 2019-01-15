@@ -65,12 +65,12 @@
 	},
 	{
 	"title": "Version",
-	"text": "0.1.1-1",
+	"text": "0.1.2",
 	"class": "DepictionTableTextView"
 	},
 	{
 	"title": "Released",
-	"text": "2019-01-14",
+	"text": "2019-01-15",
 	"class": "DepictionTableTextView"
 	},
 	{
@@ -107,6 +107,17 @@
 	{
 	"tabname": "Changelog",
 	"views": [
+	{
+	"title": "Version 0.1.2",
+	"useBoldText": true,
+	"useBottomMargin": true,
+	"class": "DepictionSubheaderView"
+	},
+	{
+	"markdown": "* Fixes Crashing in Sileo\n* Adds Filtering Sources by Alphabetical Order\n* Fixes Dangerous Source Warning",
+	"useSpacing": false,
+	"class": "DepictionMarkdownView"
+	},
 	{
 	"title": "Version 0.1.1-1",
 	"useBoldText": true,
