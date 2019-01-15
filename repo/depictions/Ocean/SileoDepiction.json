@@ -21,11 +21,6 @@
 	"class": "DepictionSpacerView"
 	},
 	{
-	"markdown": "Ocean is a tweak jampacked with features for the package manager Sileo. Ocean will allow you to add more functionality and customization options to Sileo. We are constantly taking requests for features so if you are interested in contact us please do so [@OceanForSileo](https://twitter.com/OceanForSileo) on Twitter or on [GitHub](https://github.com/M4cs/Ocean). There are many more features to come with Ocean that we are working on adding every day. We are also working on some of your suggestions we've got! Expect awesome updates soon!",
-	"useSpacing": true,
-	"class": "DepictionMarkdownView"
-	},
-	{
 	"itemCornerRadius": 6,
 	"itemSize": "{160, 275.41333333333336}",
 	"screenshots": [
@@ -50,7 +45,7 @@
 	"class": "DepictionSpacerView"
 	},
     {
-	"title":"# Other Features:\n* Add unsupported repositories\n* E-Mail and share your tweak lists easily\n* Auto-Respring after installation\n* Add multiple repositories at once\n* Bring back Ads to BigBoss and Support the Community.",
+	"title":"# Other Features:<br/>* Add unsupported repositories<br/>* E-Mail and share your tweak lists easily<br/>* Auto-Respring after installation<br/>* Add multiple repositories at once",
 	"useBoldText":true,
 	"useBottomMargin":false,
 	"class":"DepictionMarkdownView"
@@ -75,7 +70,7 @@
 	},
 	{
 	"title": "Released",
-	"text": "2019-01-13",
+	"text": "2019-01-14",
 	"class": "DepictionTableTextView"
 	},
 	{
@@ -136,4 +131,6 @@
 	],
 	"class": "DepictionStackView"
 	}
-	]
+	],
+	"class": "DepictionTabView"
+	}
